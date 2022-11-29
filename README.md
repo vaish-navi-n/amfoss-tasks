@@ -5,7 +5,7 @@ I am Vaishnavi Nair from Kottayam Kerala, first year student of BCA Data Science
 
 | Task List | Description | Status |
 |-----------|-------------|--------|
-| Task-00 | Installing Ubuntu | |
+| [Task-00](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-00) | Installing Ubuntu | |
 | Task-01 | Starting amFOSS repositories | |
 | Task-02 | Terminal Hunt | |
 | Task-03 | Programming | |
