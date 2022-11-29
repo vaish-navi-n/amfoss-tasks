@@ -1,1 +1,28 @@
 # amfoss-tasks
+
+# Vaishnavi Nair
+I am Vaishnavi Nair from Kottayam Kerala, first year student of BCA Data Science at Amrita Vishwa Vidyapeetham Amritapuri Campus.
+
+| Task List | Description | Status |
+|-----------|-------------|--------|
+| Task-00 | Installing Ubuntu | |
+| Task-01 | Starting amFOSS repositories | |
+| Task-02 | Terminal Hunt | |
+| Task-03 | Programming | |
+| Task-04 | CineBot | |
+| Task-05 | Find The Bug | |
+| Task-06 | Flame Game | |
+| Task-07 | Go WASM | |
+| Task-08 | Internet Explorer | |
+| Task-09 | Krypto Scrapper | |
+| Task-10 | CS50 | |
+| Task-11 | Figma Ninja | |
+| Task-12 | Bunny Heist | |
+| Task-13 | Football Counter | |
+| Task-14 | Bandit | |
+| Task-15 | Project Euler | |
+
+
+## My views about the tasks.
+
+## My Introduction.
