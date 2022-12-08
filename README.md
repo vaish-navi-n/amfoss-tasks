@@ -7,7 +7,7 @@ I am Vaishnavi Nair from Kottayam Kerala, first year student of BCA Data Science
 |-----------|-------------|--------|
 | [Task-00](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-00) | Installing Ubuntu | |
 | [Task-01](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-01) | Starting amFOSS repositories | |
-| Task-02 | Terminal Hunt | |
+| [Task-02](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-02) | Terminal Hunt | |
 | Task-03 | Programming | |
 | Task-04 | CineBot | |
 | Task-05 | Find The Bug | |
@@ -19,7 +19,7 @@ I am Vaishnavi Nair from Kottayam Kerala, first year student of BCA Data Science
 | Task-11 | Figma Ninja | |
 | Task-12 | Bunny Heist | |
 | Task-13 | Football Counter | |
-| [Task-14](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-14) | Bandit | |
+| [Task-14](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-14) | Bandit | Completed |
 | Task-15 | Project Euler | |
 
 
