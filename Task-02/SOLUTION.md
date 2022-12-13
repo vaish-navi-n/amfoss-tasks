@@ -1,4 +1,4 @@
-This task was almost easy.It really helped in understanding the basics of linux comands. The first 3 parts of this task was easy but the forth part was a bit tricky for me. 
+This task was almost easy.It really helped in understanding the basics of linux comands. The first 3 parts of this task was easy but the fourth part was a bit tricky for me. 
 I got the following passwords:-
 part1=107 
 part2=562 
