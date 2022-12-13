@@ -19,7 +19,7 @@ I am Vaishnavi Nair from Kottayam Kerala, first year student of BCA Data Science
 | Task-11 | Figma Ninja | |
 | Task-12 | Bunny Heist | |
 | Task-13 | Football Counter | |
-| [Task-14](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-14) | Bandit | |
+| [Task-14](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-14) | Bandit | Completed |
 | Task-15 | Project Euler | |
 
 
