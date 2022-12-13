@@ -17,10 +17,10 @@ I am Vaishnavi Nair from Kottayam Kerala, first year student of BCA Data Science
 | [Task-09](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-09) | Krypto Scrapper | Incomplete |
 | [Task-10](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-10) | CS50 | Incomplete |
 | [Task-11](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-11) | Figma Ninja | Incomplete |
-| Task-12 | Bunny Heist | |
-| Task-13 | Football Counter | |
+| [Task-12](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-12) | Bunny Heist | Incomplete |
+| [Task-13](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-13) | Football Counter | Incomplete |
 | [Task-14](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-14) | Bandit | Completed |
-| Task-15 | Project Euler | |
+| [Task-15](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-15) | Project Euler | Incomplete |
 
 
 ## My views about the tasks.
