@@ -24,5 +24,8 @@ I am Vaishnavi Nair from Kottayam Kerala, first year student of BCA Data Science
 
 
 ## My views about the tasks.
+I haven't completed all the tasks. Its mostly because this month i had my mid terms and had lab exams and lab evaluvations. I kept my class work on the topmost priority.
+I think the tasks given were pretty much based on the basics of everthing and i think if i could give more time to it i could have completed it. These tasks helped me to understand how vast Computer Science field is and it really helps us to learn basics and it is really helpful to give a basic idea on what the club is about and what our role will be if we will become a member of the club.
 
 ## My Introduction.
+Hello Seniors. I am Vaishnavi Nair currently studying in S1 BCA Data Science. I am from Kottayam, Kerala. I came to know about amFOSS club long befor joining this college through the institution's website and then also in the induction program too. I hope that joining the club will really improve my knowledge and skill. The previous knowledge i have in the field of computer science is that i studied Python and DBMS in my 11th and 12th grade where i loved it and so i desided to persue it in future as my career. As a Data Science student i wish to learn more in this field and learn new skills and achive something as the member of this club. These tasks really gave an idea on what amFOSS club mainly focuses on and how the roles will be as its member.
