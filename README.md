@@ -7,7 +7,7 @@ I am Vaishnavi Nair from Kottayam Kerala, first year student of BCA Data Science
 |-----------|-------------|--------|
 | [Task-00](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-00) | Installing Ubuntu | Completed |
 | [Task-01](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-01) | Starting amFOSS repositories | Completed |
-| [Task-02](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-02) | Terminal Hunt | |
+| [Task-02](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-02) | Terminal Hunt | Completed |
 | Task-03 | Programming | |
 | Task-04 | CineBot | |
 | Task-05 | Find The Bug | |
