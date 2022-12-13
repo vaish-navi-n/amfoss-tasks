@@ -4,6 +4,6 @@ part1=107
 part2=562 
 part3=101 
 part4=977 
-So the final password was 107,562, 101, 977 
+So the final password was 107562101977 
 
 There is a mistake in the password found by me as the pdf was not opening.
