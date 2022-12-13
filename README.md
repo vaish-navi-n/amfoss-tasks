@@ -11,7 +11,7 @@ I am Vaishnavi Nair from Kottayam Kerala, first year student of BCA Data Science
 | [Task-03](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-03) | Programming | tried to attempt |
 | [Task-04](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-04) | CineBot | Incomplete |
 | [Task-05](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-05) | Find The Bug | Incomplete |
-| Task-06 | Flame Game | |
+| [Task-06](https://github.com/vaish-navi-n/amfoss-tasks/tree/main/Task-06) | Flame Game | Incomplete |
 | Task-07 | Go WASM | |
 | Task-08 | Internet Explorer | |
 | Task-09 | Krypto Scrapper | |
